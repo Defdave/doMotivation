@@ -108,7 +108,7 @@ i {
 }
 
 @media (max-width:740px) {
-    #showcase .container, #blocks {
+    header .container, #showcase .container, #blocks {
         flex-direction: column;
         text-align: center;
         
