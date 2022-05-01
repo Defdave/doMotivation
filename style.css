@@ -116,5 +116,6 @@ i {
     #showcase {
         height: max-content;
         padding: 15px;
+        line-height: 1.2em;
     }
 }
